@@ -15,9 +15,9 @@ notiffly is a highly scalable, real-time notification platform built using Kafka
 
 ## Routemap
 
-- [] Refactor code to apply better modularization
-- [] Implement docket compose file to start kafka, producer and consumer at once each service in its own docker
-- [] Integrate data persistency
+- [ ] Refactor code to apply better modularization
+- [ ] Implement docket compose file to start kafka, producer and consumer at once each service in its own docker
+- [ ] Integrate data persistency
 
 ## Getting Started
 
