@@ -1,6 +1,6 @@
-package models
+package user
 
-type User struct {
+type Model struct {
 	ID   int    `json:"id"`
 	Name string `json:"name"`
 }
